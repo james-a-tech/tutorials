@@ -8,4 +8,4 @@ pip install -r requirements.txt
 2. [Model fitting to data automatically using errors](deep_learning/backpropagation.ipynb)
 3. [Multiple inputs and weighted delta](deep_learning/multiple_inputs.ipynb)
 4. [Activation function working](deep_learning/activation_function.ipynb)
-5. [Model fitting to separate the data]
+5. [Model fitting to separate the data](deep_learning/classification.ipynb)
