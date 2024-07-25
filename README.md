@@ -9,3 +9,9 @@ pip install -r requirements.txt
 3. [Multiple inputs and weighted delta](deep_learning/multiple_inputs.ipynb)
 4. [Activation function working](deep_learning/activation_function.ipynb)
 5. [Model fitting to separate the data](deep_learning/classification.ipynb)
+6. [Model fitting to non-linear data](deep_learning/non-linear.ipynb)
+
+# Tutorials on Holoviz (data visulization)
+
+1. [Simple Dashboard](webapp/panel-dashboard.ipynb)
+2. [Animated ploty graph](webapp/animated_graphs.ipynb)
