@@ -1,4 +1,5 @@
 pytorch_projects/data/*
 *.keras
 nlp/text_classification/aclImdb/*
-poetry.lock
+*.lock
+.venv/*
