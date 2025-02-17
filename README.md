@@ -15,6 +15,11 @@ To Sync the dependencies
 5. [Model fitting to separate the data](deep_learning/classification.ipynb)
 6. [Model fitting to non-linear data](deep_learning/non-linear.ipynb)
 
+# Tutorials on NLP
+
+1. [Word embedding using classification problem](nlp/movie_review/movie_review.ipynb)
+2. [Word embedding using CBOW model](nlp/cbow/cbow.ipynb)
+
 # Tutorials on Holoviz (data visulization)
 
 1. [Simple Dashboard](webapp/panel-dashboard.ipynb)
