@@ -19,6 +19,7 @@ To Sync the dependencies
 
 1. [Word embedding using classification problem](nlp/movie_review/movie_review.ipynb)
 2. [Word embedding using CBOW model](nlp/cbow/cbow.ipynb)
+3. [Word embedding using Glove model](nlp/glove.ipynb)
 
 # Tutorials on Holoviz (data visulization)
 
