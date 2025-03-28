@@ -21,7 +21,7 @@ To Sync the dependencies
 2. [Word embedding using CBOW model](nlp/cbow.ipynb)
 3. Word embedding using Skip-gram model     
    a. [Without negative sampling](nlp/skipgram.ipynb)  
-   b. [With Negative sampling](nlp/skipgram_negative_sampling.py)  
+   b. [With Negative sampling](nlp/skipgram_negative_samplying.py)  
 4. [Word embedding using Glove model](nlp/glove.ipynb)
 
 # Tutorials on Holoviz (data visulization)
