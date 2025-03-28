@@ -19,8 +19,9 @@ To Sync the dependencies
 
 1. [Word embedding using classification problem](nlp/movie_review/movie_review.ipynb)
 2. [Word embedding using CBOW model](nlp/cbow.ipynb)
-3. [Word embeding using Skip-gram model](nlp/skipgram.ipynb)
-   [Word embeding using Skip-gram model using negative sampling](nlp/skipgram_negative_samplying.py)
+3. Word embedding using Skip-gram model     
+   a. [Without negative sampling](nlp/skipgram.ipynb)  
+   b. [With Negative sampling](nlp/skipgram_negative_sampling.py)  
 4. [Word embedding using Glove model](nlp/glove.ipynb)
 
 # Tutorials on Holoviz (data visulization)
