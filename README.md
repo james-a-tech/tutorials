@@ -23,6 +23,7 @@ To Sync the dependencies
    a. [Without negative sampling](nlp/skipgram.ipynb)  
    b. [With Negative sampling](nlp/skipgram_negative_samplying.py)  
 4. [Word embedding using Glove model](nlp/glove.ipynb)
+5. [Word embedding using FastText model](nlp/fasttext.ipynb)
 
 # Tutorials on Holoviz (data visulization)
 
