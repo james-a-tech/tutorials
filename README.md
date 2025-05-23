@@ -29,3 +29,10 @@ To Sync the dependencies
 
 1. [Simple Dashboard](webapp/panel-dashboard.ipynb)
 2. [Animated ploty graph](webapp/animated_graphs.ipynb)
+
+# Tutorials on LLM from Scratch
+
+1. [Text embeding](llm/chp02_text_embeding.ipynb)
+2. [Attention Mechanism](llm/chp03_attention.ipynb)
+3. [LLM from scratch](llm/chp04_gpt_model.ipynb)
+4. [LLM training](llm/chp05_pretraining.ipynb)
