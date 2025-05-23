@@ -3,3 +3,5 @@ pytorch_projects/data/*
 nlp/text_classification/aclImdb/*
 *.lock
 .venv/*
+*.pth
+*.pyc
