@@ -3,16 +3,20 @@ name = "tutorials"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.10"
 dependencies = [
     "ipykernel>=6.29.5",
     "jupyter-bokeh>=4.0.5",
     "matplotlib>=3.10.0",
     "nbformat>=5.10.4",
+    "nbimporter>=0.3.4",
+    "numpy>=2.2.6",
     "pandas>=2.2.3",
     "panel>=1.5.5",
     "plotly>=5.24.1",
     "scikit-learn>=1.6.0",
+    "scipy>=1.15.3",
+    "tensorflow>=2.14.0",
     "tiktoken>=0.9.0",
     "torch>=2.5.1",
     "torchtext>=0.18.0",

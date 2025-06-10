@@ -5,3 +5,5 @@ nlp/text_classification/aclImdb/*
 .venv/*
 *.pth
 *.pyc
+llm/fine_tunning/*
+llm/gpt2/*
