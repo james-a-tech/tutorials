@@ -36,4 +36,4 @@ To Sync the dependencies
 2. [Attention Mechanism](llm/chp03_attention.ipynb)
 3. [Building LLM from scratch](llm/chp04_gpt_model.ipynb)
 4. [Training LLM from scratch](llm/chp05_pretraining.ipynb)
-5. [Fine-tuning LLM for classification problem](llm/fine_tuning/chp06_fine_tuning_for_classification.ipynb)
+5. [Fine-tuning LLM for classification problem](llm/chp06_finetunning_for_classification.ipynb)
